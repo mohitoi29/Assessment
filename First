@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+int func(string s, int k) {
+    unordered_map<char, int> freq;
+    for (auto c : s) {
+        freq[c]++;
+    }
+    priority_queue<int> max_heap;
+    for (auto it : freq) {
+        max_heap.push(it.second);
+    }
+    while (k-- && !max_heap.empty()) {
+        int max_freq = max_heap.top();
+        max_heap.pop();
+        if (max_freq > 1) {
+            max_heap.push(max_freq - 1);
+        }
+    }
+    int result = 0;
+    while (!max_heap.empty()) {
+        int freq = max_heap.top();
+        max_heap.pop();
+        result += freq * freq;
+    }
+
+    return result;
+}
+int main(){
+    string str;
+    int k;
+    cout<<"String : ";
+    cin>> str;
+     cout<<endl<<"k digit :";
+    cin>>k;
+    cout << "result : " <<func(str, k) << endl;
+}
