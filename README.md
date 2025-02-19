@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
