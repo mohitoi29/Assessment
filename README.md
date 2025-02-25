@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitoi29/Assessment/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -31,9 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitoi29/Assessment/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitoi29/Assessment/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
