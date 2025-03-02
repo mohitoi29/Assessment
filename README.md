@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitoi29/Assessment/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitoi29/Assessment/tree/master/0160-intersection-of-two-linked-lists) |
 ## Trie
 |  |
 | ------- |
@@ -34,10 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitoi29/Assessment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mohitoi29/Assessment/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitoi29/Assessment/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitoi29/Assessment/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
