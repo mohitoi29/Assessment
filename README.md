@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitoi29/Assessment/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/mohitoi29/Assessment/tree/master/0060-permutation-sequence) |
 | [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/mohitoi29/Assessment/tree/master/2050-count-good-numbers) |
 ## Greedy
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitoi29/Assessment/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitoi29/Assessment/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/mohitoi29/Assessment/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitoi29/Assessment/tree/master/0203-remove-linked-list-elements) |
 | [2050-count-good-numbers](https://github.com/mohitoi29/Assessment/tree/master/2050-count-good-numbers) |
