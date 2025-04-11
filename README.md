@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohitoi29/Assessment/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitoi29/Assessment/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
