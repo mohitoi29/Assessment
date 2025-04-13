@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohitoi29/Assessment/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohitoi29/Assessment/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohitoi29/Assessment/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohitoi29/Assessment/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
