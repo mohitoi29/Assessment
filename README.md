@@ -61,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohitoi29/Assessment/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitoi29/Assessment/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohitoi29/Assessment/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohitoi29/Assessment/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
@@ -91,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohitoi29/Assessment/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohitoi29/Assessment/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
