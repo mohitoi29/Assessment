@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohitoi29/Assessment/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mohitoi29/Assessment/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitoi29/Assessment/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitoi29/Assessment/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
