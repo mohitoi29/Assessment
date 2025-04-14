@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
