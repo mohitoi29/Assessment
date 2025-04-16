@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
