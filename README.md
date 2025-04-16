@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitoi29/Assessment/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mohitoi29/Assessment/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mohitoi29/Assessment/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohitoi29/Assessment/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitoi29/Assessment/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
