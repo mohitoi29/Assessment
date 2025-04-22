@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mohitoi29/Assessment/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/mohitoi29/Assessment/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/mohitoi29/Assessment/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/mohitoi29/Assessment/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mohitoi29/Assessment/tree/master/0199-binary-tree-right-side-view) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mohitoi29/Assessment/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
