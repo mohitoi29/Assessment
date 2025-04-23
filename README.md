@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mohitoi29/Assessment/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mohitoi29/Assessment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mohitoi29/Assessment/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mohitoi29/Assessment/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/mohitoi29/Assessment/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
