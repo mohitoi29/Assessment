@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohitoi29/Assessment/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/mohitoi29/Assessment/tree/master/0735-asteroid-collision) |
 | [2227-sum-of-subarray-ranges](https://github.com/mohitoi29/Assessment/tree/master/2227-sum-of-subarray-ranges) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/mohitoi29/Assessment/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mohitoi29/Assessment/tree/master/0300-longest-increasing-subsequence) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/mohitoi29/Assessment/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 ## Bit Manipulation
 |  |
 | ------- |
