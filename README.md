@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mohitoi29/Assessment/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/mohitoi29/Assessment/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/mohitoi29/Assessment/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mohitoi29/Assessment/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitoi29/Assessment/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitoi29/Assessment/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/mohitoi29/Assessment/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/mohitoi29/Assessment/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/mohitoi29/Assessment/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mohitoi29/Assessment/tree/master/0300-longest-increasing-subsequence) |
